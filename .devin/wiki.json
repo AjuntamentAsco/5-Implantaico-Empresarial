@@ -1,0 +1,83 @@
+{
+  "repo_notes": [
+    {
+      "content": "Genera tota la wiki íntegrament en català i orientada a la tramitació documental i administrativa del procediment regulat en aquest repositori. Adapta l'estructura al contingut real de les bases o normes disponibles. Identifica responsables, documents d'entrada i sortida, requisits, comprovacions, terminis, resolucions i evidències. No inventis formularis, imports, terminis, òrgans, documents ni requisits que no constin en les fonts. Mantén sense traduir només els noms propis, les denominacions oficials, les referències legals i els fragments de codi quan correspongui."
+    }
+  ],
+  "pages": [
+    {
+      "title": "Guia de tramitació documental",
+      "purpose": "Oferir una visió general del procediment administratiu, des de l'inici fins al tancament de l'expedient, amb els actors, documents, terminis i punts de control principals",
+      "page_notes": [{"content": "Inclou un esquema cronològic del circuit documental basat exclusivament en les fonts del repositori."}]
+    },
+    {
+      "title": "Objecte, finalitat i abast",
+      "purpose": "Explicar què regula el procediment, quina finalitat té, a qui s'adreça i quines actuacions o situacions queden incloses",
+      "parent": "Guia de tramitació documental",
+      "page_notes": [{"content": "Diferencia clarament l'objecte, la finalitat i l'àmbit d'aplicació."}]
+    },
+    {
+      "title": "Marc regulador i documents de referència",
+      "purpose": "Identificar les bases, convocatòries, ordenances, normativa aplicable, publicacions oficials i altres documents que fonamenten la tramitació",
+      "parent": "Guia de tramitació documental",
+      "page_notes": [{"content": "Indica la funció de cada document dins de l'expedient i cita amb precisió la font."}]
+    },
+    {
+      "title": "Actors, unitats responsables i funcions",
+      "purpose": "Descriure les persones interessades, les unitats gestores i els òrgans que intervenen en cada fase del procediment",
+      "parent": "Guia de tramitació documental",
+      "page_notes": [{"content": "Presenta una relació entre actor, actuació, document que rep, document que emet i moment del procediment."}]
+    },
+    {
+      "title": "Requisits, modalitats i criteris",
+      "purpose": "Ordenar els requisits generals i específics, les possibles modalitats, els criteris aplicables, les incompatibilitats i els límits",
+      "page_notes": [{"content": "Utilitza taules comparatives quan hi hagi diverses modalitats o tipus de persona interessada."}]
+    },
+    {
+      "title": "Inici del procediment i presentació",
+      "purpose": "Detallar com s'inicia el procediment, els canals de presentació, els terminis i la constància que ha de quedar al registre",
+      "page_notes": [{"content": "Diferencia les dades aportades per la persona interessada de les que l'Administració comprova d'ofici."}]
+    },
+    {
+      "title": "Documentació necessària",
+      "purpose": "Crear una llista de comprovació de la documentació comuna i específica exigida en cada cas",
+      "parent": "Inici del procediment i presentació",
+      "page_notes": [{"content": "Per a cada document indica qui l'aporta, què acredita, quan s'exigeix i si es pot comprovar d'ofici."}]
+    },
+    {
+      "title": "Revisió, comprovació i esmena",
+      "purpose": "Explicar el control formal i material de la documentació, les consultes d'ofici, la petició d'informació addicional i el tractament de mancances",
+      "page_notes": [{"content": "No atribueixis terminis d'esmena ni efectes jurídics si no apareixen expressament en les fonts."}]
+    },
+    {
+      "title": "Instrucció, informes i proposta",
+      "purpose": "Descriure les actuacions de la unitat instructora, les comprovacions tècniques o administratives, els informes i la proposta de resolució",
+      "page_notes": [{"content": "Identifica els documents produïts, el responsable i la finalitat de cada actuació."}]
+    },
+    {
+      "title": "Resolució i notificació",
+      "purpose": "Explicar l'òrgan competent, el contingut de la resolució, el termini màxim, la notificació i els efectes de la decisió",
+      "page_notes": [{"content": "Diferencia les previsions de les bases de les dades concretes que hagi de fixar cada convocatòria o resolució."}]
+    },
+    {
+      "title": "Execució, justificació i seguiment",
+      "purpose": "Descriure les actuacions posteriors a la resolució, les obligacions, els justificants, els pagaments o prestacions i les evidències de seguiment",
+      "page_notes": [{"content": "Adapta aquesta pàgina a la naturalesa real del procediment i omet els apartats que no siguin aplicables."}]
+    },
+    {
+      "title": "Control, revocació, reintegrament i sancions",
+      "purpose": "Recollir els mecanismes de control, els possibles incompliments i les conseqüències previstes en les fonts",
+      "page_notes": [{"content": "Separa les previsions expresses del document de qualsevol règim general procedent de normativa externa."}]
+    },
+    {
+      "title": "Recursos i revisió",
+      "purpose": "Descriure les vies de recurs, els òrgans competents, els terminis i els documents necessaris per impugnar o revisar una decisió",
+      "page_notes": [{"content": "No inventis vies ni terminis; cita el fonament documental corresponent."}]
+    },
+    {
+      "title": "Tancament, arxiu i traçabilitat",
+      "purpose": "Proporcionar una llista final de comprovació dels documents i evidències que han de constar a l'expedient abans de tancar-lo",
+      "page_notes": [{"content": "No estableixis terminis de conservació que no constin en les fonts; assenyala les mancances com a qüestions pendents."}]
+    }
+  ]
+}
